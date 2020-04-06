@@ -1,0 +1,226 @@
+@media (max-width:575px){
+    .icons .list-inline-item a {
+        font-size: 16px;
+        width: 40px;
+        height: 40px;
+        line-height: 36px;
+    }
+    .navbar .navbar-nav {
+        text-align: center;
+    } 
+    #cover_dp {
+        padding: 110px 0 100px;
+    }
+    #cover_dp .dp {
+        height: 160px;
+        width: 160px;
+    }
+    #cover_dp .dp .dp_img {
+        height: 140px;
+        width: 140px;
+    }
+    #cover_dp .my-name {
+        position: relative;
+        transform: translate(0%, 40%);
+        text-align: center;
+    }
+    #cover_dp .my-name h1 {
+        font-size: 35px;
+    }
+    #protfolio1 {
+        padding: 25px 0;
+    }
+    .gift-part .product-img .pro_img .overlay .product-icon {
+        width: 100%;
+    }
+
+
+    .reviewers {
+        height: 100%;
+        margin-bottom: 30px;
+        
+    }
+    /* .slick-slide {
+
+        width: 240px !important;
+        border-left-width: 10px !important;
+        border-left-style: solid !important;
+        border-right-width: 10px !important;
+        border-right-style: solid;
+    
+    } */
+    .reviewers-dp {
+        
+        top: 17%;
+        left: 50%;
+        
+    }
+    .reviewer-name {
+        margin-top: 160px;
+        color: #fff;
+        text-align: center;
+        margin-bottom: -74px;
+        margin-right: 0 !important;
+
+        float: unset !important;
+    }
+    .review-rating {
+
+        float: right;
+        padding-right: 20px;
+        margin-top: 32px;
+        margin-bottom: 15px;
+    
+    }
+    .review-rating .fa-star{
+        font-size: 9px;
+    }
+
+
+    .contact {
+        margin-top: 0px;
+    }
+    /* .reviewers {
+        height: 357px;
+        width: 284px !important;
+        background: #ff4a57;
+        margin-right: 0px;
+        margin-left: -183px;
+        position: relative;
+        margin-bottom: 50px;
+    } */
+}
+
+@media (min-width:576px) and (max-width:767px){
+    .navbar .navbar-nav {
+        text-align: center;
+    } 
+    #cover_dp {
+        padding: 110px 0 100px;
+    }
+    #cover_dp .my-name {
+        position: relative;
+        transform: translate(0%, 40%);
+        text-align: center;
+    }
+    #protfolio1 {
+        padding: 25px 0;
+    }
+    .reviewers {
+        height: 100%;
+        margin-bottom: 30px;
+        
+    }
+    .reviewers-dp {
+        
+        top: 17%;
+        left: 50%;
+        
+    }
+    .reviewer-name {
+        margin-top: 160px;
+        color: #fff;
+        text-align: center;
+        margin-bottom: -74px;
+        margin-right: 0 !important;
+
+        float: unset !important;
+    }
+    .review-rating {
+
+        float: right;
+        padding-right: 20px;
+        margin-top: 32px;
+        margin-bottom: 15px;
+    
+    }
+    .review-rating .fa-star{
+        font-size: 9px;
+    }
+
+
+    .contact {
+        margin-top: 0px;
+    }
+
+
+
+
+    .contact {
+        margin-top: 0px;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px){
+    .navbar .navbar-nav {
+        text-align: center;
+    } 
+    #cover_dp {
+        padding: 110px 0 100px;
+    }
+    #cover_dp .my-name {
+        position: relative;
+        transform: translate(0%, 40%);
+        text-align: center;
+    }
+    #protfolio1 {
+        padding: 25px 0;
+    }
+    .gift-part .product-img .pro_img .overlay .product-icon {
+        width: 100%;
+    }
+    .reviewers {
+        height: 100%;
+        margin-bottom: 30px;
+        
+    }
+    .reviewers-dp {
+        
+        top: 17%;
+        left: 50%;
+        
+    }
+    .reviewer-name {
+        margin-top: 160px;
+        color: #fff;
+        text-align: center;
+        margin-bottom: -74px;
+        margin-right: 0 !important;
+
+        float: unset !important;
+    }
+    .review-rating {
+
+        float: right;
+        padding-right: 20px;
+        margin-top: 32px;
+        margin-bottom: 15px;
+    
+    }
+    .review-rating .fa-star{
+        font-size: 6px;
+    }
+
+
+    .contact {
+        margin-top: 0px;
+    }
+    .contact {
+        margin-top: 0px;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px){
+    .navbar .navbar-nav {
+        text-align: center;
+    } 
+    #cover_dp {
+        padding: 140px 0 70px;
+    }
+    #protfolio1 {
+        padding: 25px 0;
+    }
+    .contact {
+        margin-top: 0px;
+    }
+}
